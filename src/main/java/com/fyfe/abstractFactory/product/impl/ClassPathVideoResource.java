@@ -1,6 +1,5 @@
 package com.fyfe.abstractFactory.product.impl;
 
-import com.fyfe.abstractFactory.product.AbstractPictureResource;
 import com.fyfe.abstractFactory.product.AbstractVideoResource;
 
 import java.io.InputStream;

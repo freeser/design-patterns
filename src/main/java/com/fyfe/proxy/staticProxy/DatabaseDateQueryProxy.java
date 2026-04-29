@@ -1,4 +1,4 @@
-package com.fyfe.proxy.cacheProxy;
+package com.fyfe.proxy.staticProxy;
 
 import java.util.HashMap;
 

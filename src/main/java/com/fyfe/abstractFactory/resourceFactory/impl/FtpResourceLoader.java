@@ -7,7 +7,6 @@ import com.fyfe.abstractFactory.product.impl.FtpPictureResource;
 import com.fyfe.abstractFactory.product.impl.FtpTextResource;
 import com.fyfe.abstractFactory.product.impl.FtpVideoResource;
 import com.fyfe.abstractFactory.resourceFactory.AbstractResourceLoader;
-import com.fyfe.abstractFactory.resourceFactory.IResourceLoader;
 
 public class FtpResourceLoader  extends AbstractResourceLoader {
 

@@ -1,6 +1,5 @@
 package com.fyfe.factoryMethod2.resourceFactory;
 
-import com.fyfe.factoryMethod.simpleFactory.Resource;
 import com.fyfe.factoryMethod.simpleFactory.ResourceLoadException;
 import com.fyfe.factoryMethod2.product.AbstractResource;
 

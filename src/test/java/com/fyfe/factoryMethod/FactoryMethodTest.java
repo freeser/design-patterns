@@ -1,9 +1,10 @@
-package factoryMethod;
+package com.fyfe.factoryMethod;
 
 import com.fyfe.factoryMethod2.product.AbstractResource;
 import com.fyfe.factoryMethod2.resourceFactory.ResourceLoader;
 import lombok.extern.slf4j.Slf4j;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
 
 @Slf4j
 public class FactoryMethodTest {

@@ -1,4 +1,4 @@
-package com.fyfe.proxy.cacheProxy;
+package com.fyfe.proxy.staticProxy;
 
 public class DatabaseDataQuery implements DataQuery {
 

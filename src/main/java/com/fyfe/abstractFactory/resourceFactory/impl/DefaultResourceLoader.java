@@ -7,7 +7,6 @@ import com.fyfe.abstractFactory.product.impl.DefaultPictureResource;
 import com.fyfe.abstractFactory.product.impl.DefaultTextResource;
 import com.fyfe.abstractFactory.product.impl.DefaultVideoResource;
 import com.fyfe.abstractFactory.resourceFactory.AbstractResourceLoader;
-import com.fyfe.abstractFactory.resourceFactory.IResourceLoader;
 
 public class DefaultResourceLoader  extends AbstractResourceLoader {
 

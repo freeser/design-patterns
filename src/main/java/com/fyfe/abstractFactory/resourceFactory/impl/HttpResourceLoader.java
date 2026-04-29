@@ -7,7 +7,6 @@ import com.fyfe.abstractFactory.product.impl.HttpPictureResource;
 import com.fyfe.abstractFactory.product.impl.HttpTextResource;
 import com.fyfe.abstractFactory.product.impl.HttpVideoResource;
 import com.fyfe.abstractFactory.resourceFactory.AbstractResourceLoader;
-import com.fyfe.abstractFactory.resourceFactory.IResourceLoader;
 
 public class HttpResourceLoader  extends AbstractResourceLoader {
 

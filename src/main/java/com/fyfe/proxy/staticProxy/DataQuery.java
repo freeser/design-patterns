@@ -1,4 +1,4 @@
-package com.fyfe.proxy.cacheProxy;
+package com.fyfe.proxy.staticProxy;
 
 public interface DataQuery {
     String query(String queryKey);
