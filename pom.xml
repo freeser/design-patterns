@@ -38,6 +38,11 @@
             <artifactId>spring-boot-starter-aop</artifactId>
         </dependency>
 
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>30.1-jre</version>
+        </dependency>
 
         <!-- Janino 解决 Logback 条件判断所需的类（版本由 Spring Boot 管理） -->
         <dependency>
